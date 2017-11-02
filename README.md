@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = QcDevViewTool::Renderer.copyright 'QcDev', 'All rights reserved'
+```
+
 
 ## Development
 
